@@ -1,10 +1,10 @@
-GAME;STREAMER;SUBSCRIBER
-Valorant;Tenz;17000000
-Valorant;Kyedae;20000000
-Valorant;Nhangamingff;9000000
-Valorant;Elevenz;5000000
-Chess;Gothem chess;50000000
-Chess;Magnus Carlsen;85000000
-Chess;Hikaru Nakamura;84000000
-League of legend;Faker;10000000
-League of legend;Hide on bush;27000000
+GAME,STREAMER,SUBSCRIBER
+Valorant,Tenz,17000000
+Valorant,Kyedae,20000000
+Valorant,Nhangamingff,9000000
+Valorant,Elevenz,5000000
+Chess,Gothem chess,50000000
+Chess;Magnus Carlsen,85000000
+Chess,Hikaru Nakamura,84000000
+League of legend,Faker,10000000
+League of legend,Hide on bush,27000000
